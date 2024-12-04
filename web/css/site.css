@@ -1,0 +1,17 @@
+.github-repos {
+    margin: 20px;
+}
+
+.github-repos table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.github-repos th, .github-repos td {
+    padding: 10px;
+    text-align: left;
+}
+
+.github-repos th {
+    background-color: #f4f4f4;
+}
